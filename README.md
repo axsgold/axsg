@@ -1,2 +1,1 @@
-# axsg
-AXS GOLD (AXSG)
+# AXSG - AXS GOLD
